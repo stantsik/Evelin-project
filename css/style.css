@@ -225,3 +225,7 @@ ul {
   font-size: 16px;
     color: #666;
 }
+
+.bg-lightbyme {
+  background-color: rgb(240, 240, 235);
+}
